@@ -1,6 +1,6 @@
 # INN Opcache Resetman | Opcache 重置者
 
-> The plugin will help you reset the PHP opcache cache after WordPress upgrade. | 该插件能够在 WordPress 更新后重置 Opcache 缓存。
+> The plugin will help you to reset the PHP opcache cache after WordPress upgraded. | 该插件能够在 WordPress 更新后重置 Opcache 缓存。
 
 ## 信息
 
